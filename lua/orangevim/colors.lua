@@ -3,16 +3,16 @@ local colors = {
   -- Base colors
   bg = "#24292e",
   bg_dark = "#1f2428",
-  bg_highlight = "#ffffff0a",
-  bg_visual = "#ffffff20",
+  bg_highlight = "#2c3238",
+  bg_visual = "#3e4451",
   fg = "#e1e4e8",
   fg_dark = "#959da5",
   fg_gutter = "#626d77",
 
   -- Orange accent (primary)
   orange = "#ff7300",
-  orange_dim = "#ff7300a0",
-  orange_hover = "#ff7300d8",
+  orange_dim = "#cc5c00",
+  orange_hover = "#ff8c33",
 
   -- Syntax colors
   green = "#98C379",
