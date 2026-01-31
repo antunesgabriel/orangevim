@@ -56,7 +56,7 @@ return {
 
 ```lua
 {
-  "antunesgabriel/orangevim.nvim",
+  "antunesgabriel/orangevim",
   priority = 1000,
   config = function()
     require("orangevim").setup()
@@ -67,7 +67,7 @@ return {
 ### Manual Installation
 
 ```bash
-git clone https://github.com/antunesgabriel/orangevim.nvim ~/.config/nvim/orangevim
+git clone https://github.com/antunesgabriel/orangevim ~/.config/nvim/orangevim
 ```
 
 Then in your `init.lua`:
