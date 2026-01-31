@@ -1,0 +1,2 @@
+-- Auto-load plugin on Neovim startup
+-- This file is executed automatically when the plugin is in runtimepath
